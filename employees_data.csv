@@ -1,0 +1,12 @@
+﻿ ID , Name       , Age , Height , Weight , City        , DateOfBirth  , Email                 , IsActive 
+----,------------,-----,--------,--------,-------------,--------------,-----------------------,----------
+ 1  , John Doe   , 28  , 175    , 75     , New York    , 1995-08-12   , john.doe@email.com   , true     
+ 2  , Alice Smith, 35  , -      , 68     , Los Angeles , 1988-04-25   , alice.smith@email.com , false    
+ 3  , Bob Johnson, -   , 180    , 82     , Chicago     , 1972-11-03   , bob.johnson@email.com , true     
+ 4  , Jane Brown , 42  , 160    , -      , Houston     , 1980-09-18   , jane.brown@email.com  , true     
+ 5  , Sam White  , 31  , 185    , 90     , Miami       , -            , sam.white@email.com   , false    
+ 6  , Emily Davis, 29  , 168    , 55     , -           , 1994-06-30   , emily.davis@email.com , true     
+ 7  , Mark Lee   , 45  , 175    , 78     , San Francisco, 1978-02-15  , mark.lee@email.com    , false    
+ 8  , Megan Chen , 33  , 162    , 60     , Seattle     , 1989-12-08   , megan.chen@email.com  , true     
+ 9  , Charlie Kim, 40  , -      , 85     , Dallas      , 1983-07-22   , charlie.kim@email.com , true     
+10, Olivia Wang, 27  , 170    , 72     , Atlanta     , 1996-03-10   , olivia.wang@email.com , -        
